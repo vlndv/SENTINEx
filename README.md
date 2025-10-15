@@ -1,6 +1,6 @@
 SENTINELx – Precision Trading Monitor
 
-Sentinel is a tactical execution and monitoring system built for XAU/USD and high-volatility pairs. It connects to OANDA for live feeds, runs AI-driven analysis, and pushes sniper-grade alerts straight to Telegram.
+SENTINELx is a tactical execution and monitoring system built for XAU/USD and high-volatility pairs. It connects to OANDA for live feeds, runs AI-driven analysis, and pushes sniper-grade alerts straight to Telegram.
 
 🔑 Core Functions
 
