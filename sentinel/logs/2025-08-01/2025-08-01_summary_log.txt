@@ -1,0 +1,70 @@
+
+────────────────────────────────────────────────────────────
+[2025-08-01 06:46:14] SESSION: Morning Forecast | 29 candles
+📍 <b>MORNING FORECAST</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+• 1. **Overnight Trend and Key Zones:**<br><br>• - The overnight session has shown a general upward trend, with the price beginning around <b>3289.960</b> and reaching highs of <b>3297.190</b> before settling lower.<br><br>• - Key support zones appear around 3290, where the price consolidated before pushing higher. Resistance zones are evident near 3297, which marks the session's peak.<br><br>• - The initial consolidation and subsequent breakout suggest a bullish bias in the early part of the session, followed by a retracement and stabilization around the 3292-3294 range.<br><br>• 2. **Likely Trap Setups Forming:**<br><br>
+<i>The game isn’t entry. The game is understanding.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 06:46  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-08-01 11:48:15] SESSION: Test Trigger | 29 candles
+📍 <b>TEST TRIGGER</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• - Bullish overall during the session.<br><br>• - Consistent higher highs and higher lows observed.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>
+<i>Price speaks loudest in silence.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 11:48  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-08-01 11:48:20] SESSION: Test Trigger | 29 candles
+📍 <b>TEST TRIGGER</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• - Bullish momentum throughout the session.<br><br>• - Gradual upward price movement with higher highs and higher lows.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>
+<i>True power is not prediction — it's preparation.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 11:48  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-08-01 11:48:33] SESSION: Test Trigger | 29 candles
+📍 <b>TEST TRIGGER</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • The session exhibits a bullish trend overall, with a series of higher highs and higher lows evident throughout the candle data.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>• Liquidity sweep observed around **<b>3285.330</b>** at 08:05, inducing a reversal leading to a bullish momentum.<br><br>
+<i>Markets are engineered — precision reveals the architect.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 11:48  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-08-01 11:48:39] SESSION: Test Trigger | 29 candles
+📍 <b>TEST TRIGGER</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • The session is predominantly bullish with a series of higher highs and higher lows, indicating an upward momentum.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>• Liquidity sweep observed at **<b>3286.440</b>**, where the price dipped momentarily before reversing upwards.<br><br>
+<i>Wicks are whispers — hear what price refuses to say.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 11:48  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-08-01 11:48:47] SESSION: Test Trigger | 29 candles
+📍 <b>TEST TRIGGER</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • The session is exhibiting a bullish trend with consistent higher highs and higher lows.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>• Liquidity was swept at the low of **<b>3286.785</b>** during the 08:30 candle, triggering a reversal.<br><br>
+<i>Volume reveals intention. Time confirms execution.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 11:48  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-08-01 11:49:05] SESSION: Test Trigger | 29 candles
+📍 <b>TEST TRIGGER</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • Overall, the session demonstrates a bullish trend with upward momentum observed in the latter half.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>• Liquidity sweep occurred around **<b>3286.440</b>** during the 08:10 candle, creating an inducement for higher moves.<br><br>
+<i>The game isn’t entry. The game is understanding.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 11:49  (Europe/Rome)
+

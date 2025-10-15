@@ -1,0 +1,111 @@
+
+────────────────────────────────────────────────────────────
+[2025-07-23 08:58:48] SESSION: London Open [Manual Test] | 29 candles
+📍 <b>LONDON OPEN [MANUAL TEST]</b>
+━━━━━━━━━━━━━━━━━━
+
+→ 📍 <b>LONDON OPEN [MANUAL TEST]</b>
+→ ━━━━━━━━━━━━━━━━━━
+→ 1. **📊 **Dominant Trend**
+→ ** The XAU/USD market exhibited a predominantly bullish trend during the session. The opening price at ****3421.215**** gradually moved up to a closing price of ****3424.330****, with several higher highs and higher lows, indicating a sustained upward momentum.
+→ 2. **Key Liquidity Sweeps or Reversals:** A notable liquidity sweep occurred between 05:30 and 05:40, where the price dropped from ****3422.740**** to a low of ****3417.815**** before reversing to close higher at ****3419.085****. This suggests a potential stop-loss hunt or aggressive buying interest at lower levels.
+
+→ _Liquidity fuels intention. Timing defines direction._
+
+━━━━━━━━━━━━━━━━━━
+<b>Time:</b> 08:58  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-23 09:07:02] SESSION: Asian Open | 19 candles
+📍 <b>ASIAN OPEN</b>
+━━━━━━━━━━━━━━━━━━━━━━━
+
+→ 1. **Dominant Trend**: The session exhibits a sideways movement with a slight bearish tilt. The initial candles show some volatility, but the latter half of the session sees prices oscillating in a tighter range, indicating consolidation.
+
+→ 2. **Key Liquidity Sweeps or Reversals**: A notable liquidity sweep occurred at 20:35 when prices dipped sharply to a low of 3428.115 before recovering, suggesting a potential stop-loss hunting or a reversal point. Another minor reversal is seen at 20:55, where prices spiked to 3432.005 before closing lower, indicating selling pressure at higher levels.
+
+→ 3. **Fast Wick or Aggressive Volume Shifts**: The candle at 20:55 exhibits an aggressive upward movement with a high wick, indicating a short-lived attempt to break higher, which was quickly met with selling pressure. This suggests that any bullish attempts are being countered effectively by sellers.
+
+→ 4. **Session High/Low Behavior**: The session high of 3432.005 was achieved at 20:55 and was quickly rejected, while the session low of 3427.530 at 22:50 suggests a potential support level being tested. The inability to sustain higher prices indicates resistance near the highs.
+
+→ 5. **Outlook for the Next Session**: The outlook for the next session is **neutral to bearish**. The repeated failure to break higher and the presence of resistance near the session highs suggest that any upward momentum may be limited. Traders should watch for potential breakdowns below the session lows for bearish continuation.
+
+
+<i>Liquidity fuels intention. Timing defines direction.</i>
+━━━━━━━━━━━━━━━━━━━━━━━
+<b>Time:</b> 09:07  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-23 09:23:41] SESSION: London Open [Manual Test] | 29 candles
+📍 <b>LONDON OPEN [MANUAL TEST]</b>
+━━━━━━━━━━━━━━━━━━
+
+→ 📍 <b>LONDON OPEN [MANUAL TEST]</b>
+→ ━━━━━━━━━━━━━━━━━━
+→ 1. **📊 **Dominant Trend**
+→ ** The session exhibits a clear bullish trend. Starting from a low of ****3417.815****, the price consistently makes higher highs and higher lows, culminating in a high of ****3429.770**** by the end of the session. The upward movement is steady, with multiple candles closing higher than their opens, affirming the bullish sentiment.
+→ 2. **Key Liquidity Sweeps or Reversals:** Around 06:25, there is a temporary pullback where the price drops from ****3424.045**** to a low of ****3421.375****, before recovering. This move likely represents a liquidity sweep to capture stops below recent lows, before resuming the upward trend. Another key reversal occurs at 06:35, where a brief dip to ****3419.595**** is followed by a strong recovery, indicating strong buying interest.
+
+→ _Liquidity fuels intention. Timing defines direction._
+
+━━━━━━━━━━━━━━━━━━
+<b>Time:</b> 09:23  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-23 09:25:17] SESSION: London Open [Manual Test] | 29 candles
+📍 <b>LONDON OPEN [MANUAL TEST]</b>
+━━━━━━━━━━━━━━━━━━
+
+→ 📍 <b>LONDON OPEN [MANUAL TEST]</b>
+→ ━━━━━━━━━━━━━━━━━━
+→ 1. **Dominant Trend**: The overall trend during this session is bullish. The price opened at ****3417.870**** and consistently moved upwards, culminating in a close at ****3426.775****. The sequence of higher highs and higher lows supports this bullish trend.
+→ 2. **Key Liquidity Sweeps or Reversals**: A notable liquidity sweep occurred between 07:00 and 07:10. The price dipped to ****3422.945**** during the 07:00 candle but quickly rebounded to close significantly higher at ****3426.410****, indicating strong buying interest and a possible shakeout of weaker long positions.
+→ 3. **Fast Wick or Aggressive Volume Shifts**: The 07:05 candle exhibited an aggressive upward move with a high of ****3428.130****, which continued into the next candle reaching ****3428.895****. This rapid price increase suggests a strong influx of buying pressure or aggressive short covering.
+
+→ _Liquidity fuels intention. Timing defines direction._
+
+━━━━━━━━━━━━━━━━━━
+<b>Time:</b> 09:25  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-23 09:42:40] SESSION: London Open [Manual Test] | 29 candles
+📍 <b>LONDON OPEN [MANUAL TEST]</b>
+━━━━━━━━━━━━━━━━━━
+
+→ 📍 <b>LONDON OPEN [MANUAL TEST]</b>
+→ ━━━━━━━━━━━━━━━━━━
+→ 1. **📊 **Dominant Trend**
+→ ** The overall trend during this session was bullish. Starting from the opening price of ****3420.415****, the market consistently made higher highs and higher lows, culminating in a peak at ****3429.770**** before a slight pullback.
+→ 2. **Key Liquidity Sweeps or Reversals:** A notable liquidity sweep occurred between 07:00 and 07:15, where a rapid upward movement pushed prices from ****3425.110**** to ****3429.015****. This suggests a significant buying interest or short covering, absorbing previous selling pressure.
+
+→ _Liquidity fuels intention. Timing defines direction._
+
+━━━━━━━━━━━━━━━━━━
+<b>Time:</b> 09:42  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-23 10:18:29] SESSION: London Open [Manual Test] | 29 candles
+📍 <b>LONDON OPEN [MANUAL TEST]</b>
+━━━━━━━━━━━━━━━━━━
+
+→ 📍 <b>LONDON OPEN [MANUAL TEST]</b>
+→ ━━━━━━━━━━━━━━━━━━
+→ 1. **Dominant Trend**: The overall trend during the session was predominantly bullish. The initial series of candles showed a steady increase in price, with higher highs and higher lows from ****3421.190**** to a peak of ****3429.015**** around the midpoint of the session.
+→ 2. **Key Liquidity Sweeps or Reversals**: A notable liquidity sweep occurred around the 07:20 to 07:40 timeframe. After reaching a session high of ****3429.770****, the price sharply reversed, dropping to ****3426.775****, and continued to decline to ****3421.005****, indicating a possible stop-loss hunt or profit-taking by early buyers.
+→ 3. **Fast Wick or Aggressive Volume Shifts**: The candle between 07:00 and 07:05 exhibited a strong bullish move with an aggressive rise from ****3425.110**** to a high of ****3428.130****. This suggests a sudden influx of buying pressure, possibly driven by news or market sentiment shifts.
+→ 4. **Session High/Low Behavior**: The session high was set at ****3429.770****, achieved during a rapid upward movement before the subsequent reversal. The session low was ****3419.595****, recorded early in the session, indicating initial selling pressure before the bullish trend took hold.
+→ 5. **Outlook for the Next Session**: Given the retracement observed in the latter part of the session, the outlook leans towards a **neutral to slightly bearish** stance. The reversal from the session high and subsequent lower highs suggest potential for continued consolidation or a minor pullback, unless new bullish catalysts emerge. Traders should watch for support around 3420 and resistance near 3429 for clearer directional cues.
+→ _Liquidity fuels intention. Timing defines direction._
+→ ━━━━━━━━━━━━━━━━━━
+→ <b>Time:</b> 10:18  (Europe/Rome)
+
+→ _Liquidity fuels intention. Timing defines direction._
+
+━━━━━━━━━━━━━━━━━━
+<b>Time:</b> 10:18  (Europe/Rome)
+

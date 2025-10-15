@@ -1,0 +1,99 @@
+
+────────────────────────────────────────────────────────────
+[2025-08-25 06:42:51] SESSION: Pre-New York | 29 candles
+<b>SENTINELx REPORT</b>
+
+<b>DOMINANT TREND</b>
+The trend was bullish as price steadily increased from **<b>3360.66</b>** to **<b>3365.79</b>** with higher highs formed throughout the session.
+
+<b>LIQUIDITY EVENTS</b>
+A liquidity sweep occurred near **<b>3365.24</b>** before a reversal propelled prices higher.
+
+<b>VOLUME BEHAVIOUR</b>
+Volume showed gradual increases with notable spikes during bullish movements, suggesting strong buying interest.
+
+<b>SESSION RANGE</b>
+The session respected the range between **<b>3360.20</b>** and **<b>3368.24</b>**, with no significant breaks, indicating a balanced market without traps.
+
+<b>OUTLOOK AHEAD</b>
+Expect a potential continuation of the uptrend if price holds above **<b>3365.00</b>** with increased buying pressure.
+
+<i>When price hesitates, smart money accumulates.</i>
+
+<b>Date:</b> Monday, 25 August
+<b>Session:</b> Pre-New York (13:30–14:30)
+<b>Time:</b> 06:42 Europe/Rome | 04:42 UTC
+
+
+────────────────────────────────────────────────────────────
+[2025-08-25 10:27:02] SESSION: Pre-New York | 29 candles
+🚨 <b>DOMINANT TREND</b>
+The session exhibited a bearish trend with a series of lower highs and lower lows, culminating in a close at **3364.25**.
+
+<b>LIQUIDITY EVENTS</b>
+A significant liquidity sweep occurred with the break below **3366.10** at **08:00**, leading to a sharp reversal.
+
+<b>VOLUME BEHAVIOUR</b>
+Volume showed signs of exhaustion towards the end of the session as price activity consolidated near the lows.
+
+<b>SESSION RANGE</b>
+The session ranged between a high of **3369.64** and a low of **3364.15**, with all key levels broken, suggesting potential traps for aggressive traders.
+
+<b>OUTLOOK AHEAD</b>
+Expect potential bullish reversal towards **3366.28** as liquidity seeks to fill imbalances. ambush — liquidity just got hunted.
+
+Pre-New York.
+
+🎯 Bias = BUY  🟩 Zone N/A  📌 Targets: N/A. Only precision entries.
+
+────────────────────────────────────────────────────────────
+[2025-08-25 12:09:28] SESSION: Pre-New York | 29 candles
+<b>SENTINELx REPORT</b>
+
+<b>DOMINANT TREND</b>
+The trend is predominantly bearish with a noticeable recovery towards the end.
+
+<b>LIQUIDITY EVENTS</b>
+Significant liquidity grab occurred around **<b>3366.00</b>** before a rapid reversal.
+
+<b>VOLUME BEHAVIOUR</b>
+Volume peaked sharply during the recovery phase around **<b>3365.00</b>** to **<b>3367.00</b>**.
+
+<b>SESSION RANGE</b>
+The range was defined with lows around **<b>3362.00</b>** and highs around **<b>3368.60</b>**, with a potential trap in the lower range.
+
+<b>OUTLOOK AHEAD</b>
+Prepare for a bullish continuation if price holds above **<b>3367.50</b>**.
+
+<i>Trade during peace, and rest during war.</i>
+
+<b>Date:</b> Monday, 25 August
+<b>Session:</b> Pre-New York (13:30–14:30)
+<b>Time:</b> 12:09 Europe/Rome | 10:09 UTC
+
+
+────────────────────────────────────────────────────────────
+[2025-08-25 13:56:29] SESSION: Pre-New York | 29 candles
+<b>SENTINELx REPORT</b>
+
+<b>DOMINANT TREND</b>
+The trend is bullish with a steady climb from **<b>3362.59</b>** to **<b>3371.15</b>**.
+
+<b>LIQUIDITY EVENTS</b>
+A key liquidity sweep occurred when price sharply rejected **<b>3365.25</b>** before rallying.
+
+<b>VOLUME BEHAVIOUR</b>
+Volume increased significantly towards the end of the session, indicating strong buying interest.
+
+<b>SESSION RANGE</b>
+The session respected the low of **<b>3362.11</b>** and broke the high of **<b>3371.64</b>**, suggesting a potential bullish trap.
+
+<b>OUTLOOK AHEAD</b>
+Expect a potential retracement as price approaches exhaustion near the highs.
+
+<i>Green or Red Candle? Remember, there is no turning back </i>
+
+<b>Date:</b> Monday, 25 August
+<b>Session:</b> Pre-New York (13:30–14:30)
+<b>Time:</b> 13:56 Europe/Rome | 11:56 UTC
+

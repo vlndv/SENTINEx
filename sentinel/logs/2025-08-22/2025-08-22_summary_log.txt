@@ -1,0 +1,26 @@
+
+────────────────────────────────────────────────────────────
+[2025-08-22 09:56:19] SESSION: Pre-New York | 29 candles
+<b>SENTINELx REPORT</b>
+
+<b>DOMINANT TREND</b>
+The session showed a sideways trend with no clear directional bias as prices oscillated between **<b>3326.27</b>** and **<b>3335.15</b>**.
+
+<b>LIQUIDITY EVENTS</b>
+A significant liquidity grab occurred with a sweep of the lows at **<b>3326.27</b>**, followed by a quick reversal to the highs at **<b>3335.15</b>**.
+
+<b>VOLUME BEHAVIOUR</b>
+Volume showed spikes during key liquidity grabs, particularly around the highs and lows, indicating institutional participation.
+
+<b>SESSION RANGE</b>
+The range was tight with highs of **<b>3335.15</b>** and lows of **<b>3326.27</b>**, with the market respecting these levels without any significant breakout, suggesting caution for range-bound trading.
+
+<b>OUTLOOK AHEAD</b>
+Expect potential bullish momentum if the price breaks above **<b>3335.15</b>**, targeting higher liquidity zones.
+
+<i>True power is not prediction — it’s preparation.</i>
+
+<b>Date:</b> Friday, 22 August
+<b>Session:</b> Pre-New York (13:30–14:30)
+<b>Time:</b> 09:56 Europe/Rome | 07:56 UTC
+

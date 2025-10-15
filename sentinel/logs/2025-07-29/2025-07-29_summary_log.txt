@@ -1,0 +1,220 @@
+
+────────────────────────────────────────────────────────────
+[2025-07-29 10:00:10] SESSION: London Open | 19 candles
+📍 <b>LONDON OPEN</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • The session is displaying a bearish trend overall.<br><br>• • Price action is characterized by lower highs and lower lows, indicating bearish pressure.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>
+<i>Reversals are born from belief — and belief is always bait.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 10:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 10:00:15] SESSION: London Open | 19 candles
+📍 <b>LONDON OPEN</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • The session is showing signs of bearish pressure with intermittent compression phases. The price action overall suggests a downward bias with some consolidation.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>• • A significant liquidity sweep occurred at **<b>3321.805</b>**, followed by a rapid reversal down to **<b>3316.820</b>**.<br><br>
+<i>Your weapon is not the chart. It’s the lens you use to decode it.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 10:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 19:50:35] SESSION: London Open [Manual Test] | 29 candles
+📍 <b>LONDON OPEN [MANUAL TEST]</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • The session exhibits a bullish trend.<br><br>• • Price action shows higher highs and higher lows forming consistently after the initial consolidation.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>
+<i>Wicks are whispers — hear what price refuses to say.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 19:50  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 20:30:21] SESSION: Pre-New York | 29 candles
+📍 <b>PRE-NEW YORK</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • The session is exhibiting a bullish trend overall.<br><br>• • Price action is progressively making higher highs and higher lows.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>
+<i>When price hesitates, smart money accumulates.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 20:30  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 20:38:30] SESSION: London Open | 29 candles
+📍 <b>LONDON OPEN</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • The session exhibits a bullish trend overall, with price action consistently making higher highs and higher lows.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>• Liquidity was swept below the low of **<b>3325.440</b>** before reversing upward.<br><br>
+<i>Algos feast where emotion flows.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 20:38  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 21:05:01] SESSION: Pre-New York | 29 candles
+📍 <b>PRE-NEW YORK</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+**1. 🧠 Dominant Trend**<br><br>• • The session is showing signs of compression with minor bullish undertones.<br><br>• • Price action indicates a series of higher lows and higher highs, but with limited momentum.<br><br>• ⸻<br><br>**2. 💧 Liquidity Sweeps or Reversals**<br><br>
+<i>Volume reveals intention. Time confirms execution.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 21:05  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 21:09:26] SESSION: Pre-New York | 29 candles
+📍 <b>PRE-NEW YORK</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • The session is exhibiting compression with alternating bullish and bearish moves.<br><br>• • Short-term bullish momentum seen towards the end, but overall indecisive.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>
+<i>Every candle is a question. Smart money answers with traps.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 21:09  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 22:00:17] SESSION: New York Close | 29 candles
+📍 <b>NEW YORK CLOSE</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+• ```<br><br>1. 🧠 Dominant Trend<br><br>• • The session exhibited a bearish trend overall.<br><br>• • After initial compression, a significant drop occurred, indicating bearish momentum.<br><br>• ⸻<br><br>
+<i>The first move is rarely the true move.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 22:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 22:00:27] SESSION: New York Close | 29 candles
+📍 <b>NEW YORK CLOSE</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • Compression with a slight bearish bias observed during the session.<br><br>• • Price action is choppy with no clear directional dominance.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>
+<i>Price speaks loudest in silence.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 22:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 22:00:34] SESSION: New York Close | 29 candles
+📍 <b>NEW YORK CLOSE</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • The session is exhibiting a bearish trend with intermittent compression phases.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>• Liquidity was swept at **<b>3330.890</b>** with a false high before reversing downward.<br><br>
+<i>You don’t chase price. You anticipate narrative.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 22:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 22:00:44] SESSION: New York Close | 29 candles
+📍 <b>NEW YORK CLOSE</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • Compression: The session exhibited a sideways movement, with prices oscillating in a tight range. No clear directional bias was established.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>• Liquidity sweep observed at **<b>3329.460</b>** during the initial candles, which induced a minor reversal.<br><br>
+<i>Only the patient exploit the impatient.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 22:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 22:00:54] SESSION: New York Close | 29 candles
+📍 <b>NEW YORK CLOSE</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+• ```<br><br>1. 🧠 Dominant Trend<br><br>• • Compression with a slight bearish bias observed during the session.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>
+<i>The game isn’t entry. The game is understanding.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 22:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 22:01:02] SESSION: New York Close | 29 candles
+📍 <b>NEW YORK CLOSE</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • Compression with minor bearish bias observed during this session.<br><br>• • Consolidation with a tilt towards lower lows and highs.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>
+<i>Price speaks loudest in silence.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 22:01  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 23:00:09] SESSION: Evening Review | 29 candles
+📍 <b>EVENING REVIEW</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+• 1. **Full-day Trend and Volatility**: The XAU/USD price action for the day exhibited a primarily range-bound movement with a slight downward bias. Initial stability around the 3330 level gave way to a drop towards the 3325 level, before encountering a mild recovery attempt. The volatility was moderate, characterized by fluctuating movements within a narrow range, indicating a lack of strong directional conviction.<br><br>• 2. **Major Trap or Sweep Events**: A notable sweep occurred between 18:45 and 18:55, where prices sharply dropped from 3330 to 3325, likely triggering stop-losses below previous support. This was followed by a swift recovery attempt, suggesting a potential liquidity trap designed to shake out weaker hands before consolidating.<br><br>3. **Volume + Wick Clues into NY Close**: The presence of longer wicks, particularly during the 19:35 to 19:40 period and the 20:40 to 20:50 period, indicates attempts to test lower levels, possibly absorbing selling pressure. This suggests underlying buying interest below 3325, despite the session closing slightly off the lows.<br><br>• 4. **Key Zones Reclaimed or Broken**: The 3325 level acted as a critical pivot throughout the session. While it was temporarily breached, it was repeatedly tested and ultimately held firm into the New York close, signaling its role as a support zone. Resistance near 3330 was not convincingly challenged, remaining intact.<br><br>• 5. **Bias for Tokyo–Asia Session**: Given the range-bound nature and the late-session stabilization around 3325, the bias for the Tokyo-Asia session leans neutral to slightly bullish. Participants may look for potential upside corrections towards 3330, contingent on the absence of new bearish catalysts. However, sustained movement below 3325 could shift the bias towards further downside exploration.<br><br>
+<i>Price speaks loudest in silence.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 23:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 23:00:16] SESSION: Evening Review | 30 candles
+📍 <b>EVENING REVIEW</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+• 1. **Full-Day Trend and Volatility**: The XAU/USD experienced a slight downward trend throughout the session, with the price opening at <b>3330.040</b> and closing at <b>3326.670</b>. The volatility was moderate, as evidenced by the frequent fluctuations within a relatively narrow range, with the price oscillating between the day's high of <b>3330.860</b> and low of <b>3322.670</b>.<br><br>• 2. **Major Trap or Sweep Events**: Notable sweep events occurred around 18:45 to 18:55 when the price sharply declined from <b>3330.165</b> to as low as <b>3325.355</b>, potentially trapping late buyers at higher levels. Similarly, the 19:35 to 19:40 period saw another downward sweep, breaking through the 3325 support level to reach a low of <b>3322.670</b>, which could have trapped short-term traders expecting a rebound.<br><br>3. **Volume + Wick Clues into NY Close**: The session's later hours showed longer wicks, particularly during the 20:40 to 20:55 time frame, indicating attempts to push higher were met with resistance, leading to rejections. This suggests a lack of strong buying interest into the NY close, pointing towards cautious sentiment or profit-taking activities.<br><br>• 4. **Key Zones Reclaimed or Broken**: The 3325 level served as a pivotal point throughout the session, initially acting as support but eventually being breached and retested multiple times. The inability to sustain above this level suggests a bearish control in the short term. The recovery attempts above 3326 were short-lived, failing to establish a strong foothold.<br><br>• 5. **Bias for Tokyo–Asia Session**: Given the session's closing dynamics and the failure to hold above the 3325 level, the bias leans slightly bearish for the Tokyo–Asia session. However, traders should watch for potential consolidations or reversals if 3325 is reclaimed with conviction, as this could signal a shift in momentum.<br><br>
+<i>The game isn’t entry. The game is understanding.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 23:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 23:00:22] SESSION: Evening Review | 30 candles
+📍 <b>EVENING REVIEW</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+• 1. **Full-Day Trend and Volatility**: The XAU/USD pair exhibited a predominantly sideways trend with brief periods of volatility. The market opened around <b>3330.040</b> and closed slightly lower at <b>3326.670</b>, indicating a marginal downward bias. The price fluctuations were contained within a relatively narrow range, suggesting limited volatility for the day.<br><br>• 2. **Major Trap or Sweep Events**: A significant sweep event occurred between 18:45 and 18:50, where prices dropped sharply from an opening of <b>3330.165</b> to a low of <b>3325.355</b>, potentially triggering stop-loss orders below the immediate support. This move could have trapped late buyers and cleared liquidity pockets before stabilizing.<br><br>3. **Volume + Wick Clues into NY Close**: The presence of several long wicks, particularly during the 20:40 to 20:55 timeframe, indicates aggressive buying interest as the market approached the New York close. This suggests that participants were defending key levels, though the volume data would be needed for further confirmation.<br><br>• 4. **Key Zones Reclaimed or Broken**: The session saw the breach of the 3327 support level, which was not convincingly reclaimed by the close. The inability to sustain gains above this level indicates bearish sentiment, though the defense of 3325 suggests it is a critical support zone.<br><br>• 5. **Bias for Tokyo–Asia Session**: Given the day's price action and the failure to hold above 3327, the bias for the Tokyo–Asia session leans bearish unless a recovery above this level is observed. Monitoring for early session strength is crucial, as any move above 3330 could shift sentiment to neutral or bullish.<br><br>
+<i>Volume reveals intention. Time confirms execution.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 23:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 23:00:28] SESSION: Evening Review | 30 candles
+📍 <b>EVENING REVIEW</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+• 1. **Full-day Trend and Volatility**: The XAU/USD market experienced a slightly bearish trend throughout the day, with a notable decline from the opening levels around <b>3330.040</b> to the closing at <b>3326.670</b>. Volatility was moderate, with some significant price swings observed, particularly in the mid-session, which caused intraday lows and highs to deviate from the opening and closing levels.<br><br>• 2. **Major Trap or Sweep Events**: A significant sweep occurred between 18:45 and 18:50, where prices dropped sharply from <b>3330.165</b> to a low of <b>3325.355</b>, likely triggering stop-loss orders below 3327.0. This move appears to have trapped late buyers and cleared out liquidity before a brief consolidation phase.<br><br>3. **Volume + Wick Clues into NY Close**: The presence of longer wicks, particularly during the periods of 19:35-19:40 and 20:45-20:55, suggests substantial buying interest at lower levels, but sellers maintained control to close the session lower. The modest recovery towards the end, with a close at <b>3326.670</b>, indicates some support in the 3325 region, but the overall volume seemed to favor sellers.<br><br>• 4. **Key Zones Reclaimed or Broken**: The 3325 level served as a key support zone throughout the session, with multiple tests and rejections, yet it was momentarily breached, which may indicate weakening support. The area around 3327 also acted as a resistance zone, which was tested but not convincingly reclaimed, highlighting its significance for future sessions.<br><br>• 5. **Bias for Tokyo–Asia Session**: Given the bearish close and the inability to reclaim key resistance levels, the bias leans towards further downside pressure in the Tokyo-Asia session. However, if the market can hold above the 3325 support and build momentum, there might be potential for a corrective bounce, but overall sentiment remains cautious with a bearish tilt.<br><br>
+<i>Wicks are whispers — hear what price refuses to say.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 23:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 23:00:34] SESSION: Evening Review | 30 candles
+📍 <b>EVENING REVIEW</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+• 1. **Full-Day Trend and Volatility:**<br><br>• The XAU/USD market displayed a predominantly sideways trend with minor fluctuations throughout the day. The session opened at <b>3330.040</b> and closed at <b>3326.670</b>, indicating a slight downward movement. Volatility was moderate, with prices oscillating within a narrow range for most of the session, reflecting a lack of strong directional momentum.<br><br>• 2. **Major Trap or Sweep Events:**<br><br>• A notable downward sweep occurred between 18:45 and 18:50 UTC, where the price dropped sharply from <b>3330.165</b> to a low of <b>3325.355</b>. This event likely triggered stop-loss orders for long positions, creating a potential trap for bullish traders, before stabilizing and recovering slightly.<br><br>3. **Volume + Wick Clues into NY Close:**<br><br>
+<i>Retail sees levels. Institutions see liquidity.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 23:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 23:00:40] SESSION: Evening Review | 30 candles
+📍 <b>EVENING REVIEW</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+• 1. **Full-Day Trend and Volatility**: The XAU/USD displayed a predominantly sideways trend with a modest downward bias throughout the day. The day began with a slight downward movement, followed by a phase of recovery and consolidation. Volatility was relatively contained, with the price oscillating within a tight range, suggesting a balanced tug-of-war between bulls and bears.<br><br>• 2. **Major Trap or Sweep Events**: During the 18:45 to 18:55 UTC period, a significant downward move was observed, with a low at <b>3325.355</b>, potentially trapping early buyers with a rapid decline before a minor recovery. This could indicate a stop-loss sweep, targeting liquidity below previous lows.<br><br>3. **Volume + Wick Clues into NY Close**: The presence of longer wicks, particularly in the 20:40 to 20:55 UTC timeframe, suggests attempts to test both support and resistance levels. The final candle closing at <b>3326.670</b>, near the session's highs, indicates a slight bullish sentiment heading into the New York close, possibly reflecting late-session buying interest.<br><br>• 4. **Key Zones Reclaimed or Broken**: The key support level around 3325 was tested multiple times but ultimately held, indicating a strong buying interest at this level. Resistance near 3327 was approached but not decisively breached, suggesting it remains a significant short-term barrier.<br><br>• 5. **Bias for Tokyo–Asia Session**: Given the late recovery and the session closing near the highs, the bias for the Tokyo-Asia session leans slightly bullish. However, the market remains within a broader consolidation range, and participants should watch for any breakout attempts above 3327 or breakdowns below 3325 for directional cues.<br><br>
+<i>True power is not prediction — it's preparation.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 23:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 23:00:47] SESSION: Evening Review | 30 candles
+📍 <b>EVENING REVIEW</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+• 1. **Full-Day Trend and Volatility**: The XAU/USD exhibited a predominantly sideways movement throughout the day, with slight bearish pressure. The price opened at <b>3330.040</b> and closed at <b>3326.670</b>, indicating a modest decline. Volatility was moderate, with fluctuations within a narrow range, except for a few periods of pronounced price movement.<br><br>• 2. **Major Trap or Sweep Events**: Notable price sweeps occurred around 18:45 to 19:00, where the price sharply dropped from <b>3330.165</b> to a low of <b>3325.240</b>, suggesting a possible stop-loss hunt or liquidity sweep. Another significant event was observed between 19:35 and 19:40, where the price dipped to <b>3322.670</b> before rebounding, indicating another potential liquidity grab.<br><br>3. **Volume + Wick Clues into NY Close**: The presence of long wicks, particularly in the candles around 18:45 and 20:45, suggests significant buying interest at lower levels. The volume likely increased during these periods, reflecting heightened market activity and potential accumulation by institutional players heading into the NY close.<br><br>• 4. **Key Zones Reclaimed or Broken**: The price struggled to maintain levels above 3327 during the session, indicating resistance around this zone. The 3325 level acted as a pivotal support throughout the day, being tested multiple times and largely holding, except for brief intraday breaches.<br><br>• 5. **Bias for Tokyo–Asia Session**: Given the day's price action and the closing near support levels, the bias for the Tokyo-Asia session leans cautiously bullish. However, sustained trading above 3327 is necessary for a more confident upward move. Traders should watch for potential consolidation around 3325–3327, with an eye on any breakout or further dips as cues for directional bias in the upcoming session.<br><br>
+<i>Markets are engineered — precision reveals the architect.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 23:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 23:00:53] SESSION: Evening Review | 30 candles
+📍 <b>EVENING REVIEW</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+• 1. **Full-day Trend and Volatility**: The XAU/USD experienced a predominantly sideways movement with a slight bearish bias throughout the day. Prices fluctuated within a narrow range, showing moderate volatility. The market opened around 3330 and saw a gradual decline to close near the 3326 level, indicating a slight downward trend.<br><br>• 2. **Major Trap or Sweep Events**: A significant downward move occurred between 18:45 and 18:55, where the price dropped sharply from <b>3330.165</b> to a low of <b>3325.355</b>. This move likely triggered stop-losses below key support levels, resembling a possible liquidity sweep before stabilizing and recovering slightly.<br><br>3. **Volume + Wick Clues into NY Close**: The presence of long lower wicks in the candles around 19:40 to 19:50 suggests buying interest at lower levels, potentially indicating accumulation by stronger hands. The market's ability to stabilize and recover from these levels points to underlying support as it approached the NY close.<br><br>• 4. **Key Zones Reclaimed or Broken**: The 3327 level acted as a pivotal zone throughout the session. Initial attempts to reclaim this level post-drop failed, indicating resistance. The subsequent failure to hold above it reinforced its significance as a ceiling for the day. The break below <b>3325.355</b> during the sharp downward move marked a temporary breach of support.<br><br>• 5. **Bias for Tokyo–Asia Session**: Given the day's close near 3326 and the market's reaction to lower levels, the bias for the Tokyo-Asia session leans slightly bullish. However, the market remains range-bound, and traders should watch for potential retests of the 3327 resistance and 3325 support levels for clearer directional cues.<br><br>
+<i>Order is hidden in chaos — but only if you know where to look.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 23:00  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-29 23:01:01] SESSION: Evening Review | 30 candles
+📍 <b>EVENING REVIEW</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+• 1. **Full-day Trend and Volatility**: The XAU/USD price action throughout the day demonstrated a primarily sideways movement with a slight bearish inclination. The session opened around the 3330 level and drifted downward, closing near the 3326 mark. Volatility was moderate, with occasional spikes, particularly during the mid-session.<br><br>• 2. **Major Trap or Sweep Events**: A significant bearish sweep occurred between 18:45 and 18:50, where prices sharply declined from <b>3330.165</b> to a low of <b>3325.355</b>. This move likely triggered long stop-losses before stabilizing. Another potential trap was observed between 19:35 and 19:40, with a sharp drop to <b>3322.670</b>, possibly catching late buyers off-guard.<br><br>3. **Volume + Wick Clues into NY Close**: The presence of elongated wicks, particularly during the 18:45 to 19:05 period and again from 20:40 onwards, suggests substantial buy-side interest at lower levels, hinting at support in the 3322–3325 range. The volume, although not explicitly provided, can be inferred to have increased during these volatile periods, indicating significant market participation.<br><br>• 4. **Key Zones Reclaimed or Broken**: The day's price action respected the 3325 level as a crucial support, with multiple attempts to break lower being rejected. Conversely, the 3330 level acted as a resistance ceiling, with the market failing to hold above this level consistently throughout the day.<br><br>• 5. **Bias for Tokyo–Asia Session**: Given the closing price near the session's lows and the inability to reclaim the 3330 level, the bias for the upcoming Tokyo–Asia session leans slightly bearish. However, the support around 3325 may prompt some consolidation or a potential rebound if this level continues to hold against further selling pressure.<br><br>
+<i>Your weapon is not the chart. It’s the lens you use to decode it.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 23:00  (Europe/Rome)
+

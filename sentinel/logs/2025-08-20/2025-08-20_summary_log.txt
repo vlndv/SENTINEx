@@ -1,0 +1,52 @@
+
+────────────────────────────────────────────────────────────
+[2025-08-20 11:28:13] SESSION: Pre-New York | 29 candles
+<b>SENTINEL REPORT</b>
+
+<b>DOMINANT TREND</b>
+The session began with a bullish push as price moved from **<b>3323.19</b>** to a high of **<b>3327.61</b>** before retracing. A bearish phase emerged midway through the session, dropping the price to a low of **<b>3321.42</b>**. The end of the session saw a recovery, closing at **<b>3326.02</b>**, indicating a possible shift back to bullish momentum.
+
+<b>LIQUIDITY EVENTS</b>
+A significant liquidity grab occurred after the initial bullish move, with price dropping sharply from **<b>3327.61</b>** to **<b>3321.42</b>**. This suggests a sweep of stop orders below the previous lows before reversing upward.
+
+<b>VOLUME BEHAVIOUR</b>
+Volume showed a gradual increase during the initial bullish move, followed by a sharp spike during the liquidity grab when price dropped to **<b>3321.42</b>**. The session concluded with a moderate volume as price recovered, indicating balanced participation.
+
+<b>SESSION RANGE</b>
+The session's range was defined between **<b>3327.61</b>** as the high and **<b>3321.42</b>** as the low. The lows were swept and respected, suggesting a liquidity trap for early sellers. Caution is advised as the market might exhibit fake outs; consider avoiding trades until clearer signals emerge.
+
+<b>OUTLOOK AHEAD</b>
+Expect a potential bullish continuation as price seeks to reclaim levels above **<b>3327.61</b>**, targeting further liquidity pools.
+
+<i>Liquidity fuels intention. Timing defines direction.</i>
+
+<b>Date:</b> Wednesday, 20 August
+<b>Session:</b> Pre-New York (13:30–14:30)
+<b>Time:</b> 11:28 Europe/Rome | 09:28 UTC
+
+
+────────────────────────────────────────────────────────────
+[2025-08-20 23:07:49] SESSION: Pre-New York | 30 candles
+<b>SENTINEL REPORT</b>
+
+<b>DOMINANT TREND</b>
+The session displayed a gradual upward trend with prices moving from an opening of **<b>3344.31</b>** to a close of **<b>3348.49</b>**. The trend was characterized by higher highs and higher lows, indicating bullish sentiment. There was a significant upward push around the midpoint of the session, suggesting strong buying interest.
+
+<b>LIQUIDITY EVENTS</b>
+A key liquidity sweep occurred at **<b>3346.83</b>** where a sudden price spike led to a strong upward move, breaking previous highs and drawing in more buyers. This was followed by a reversal near the high of **<b>3349.25</b>**, where gains were partially retraced.
+
+<b>VOLUME BEHAVIOUR</b>
+Volume showed a gradual increase during the session with notable spikes during the liquidity sweep at **<b>3346.83</b>**. This was followed by a stabilization phase, indicating absorption of buy orders as price consolidated at higher levels.
+
+<b>SESSION RANGE</b>
+The session ranged between a low of **<b>3344.31</b>** and a high of **<b>3349.25</b>**, respecting previous resistance levels. The highs were broken during the session, but the subsequent pullback suggests a potential trap for late buyers. Caution is advised as the market might be setting up for a reversal or consolidation phase.
+
+<b>OUTLOOK AHEAD</b>
+Expect a potential retracement towards the **<b>3347.50</b>** level before considering further bullish continuation, as the market may seek to fill the imbalance left by the recent upward move.
+
+<i>Every candle is a question. Smart money answers with traps.</i>
+
+<b>Date:</b> Wednesday, 20 August
+<b>Session:</b> Pre-New York (13:30–14:30)
+<b>Time:</b> 23:07 Europe/Rome | 21:07 UTC
+

@@ -1,0 +1,106 @@
+
+===== [SENT] Tokyo Close @ 2025-07-22 09:00:22 UTC =====
+📍 <b>Tokyo Close</b>
+━━━━━━━━━━━━━━━━━━
+<b>1. **Dominant Trend**:</b> The session exhibited a 🔻 bearish trend overall, as evidenced by the initial decline from the opening price of 3392.535 to a session 📉 low of 3383.455, with the majority of candles closing lower than their open.
+
+<b>2. **Key 💧 Liquidity Sweeps or Reversals**:</b> Notable 💧 liquidity sweeps occurred around 05:00 and 05:30 UTC, where prices dipped below significant support levels, reaching lows of 3388.235 and 3386.390 respectively, before attempting minor recoveries.
+
+<b>3. **Fast 💥 Wick or Aggressive 📊 Volume Shifts**:</b> The candles at 04:45 and 07:45 UTC showed aggressive movements, with long wicks indicating rapid price shifts. Particularly, the 04:45 candle had a 📈 high of 3391.660 and a 📉 low of 3388.055, suggesting a temporary 🔁 reversal attempt.
+
+<b>4. **Session 📈 High/📉 Low Behavior**:</b> The session 📈 high of 3392.535 was established at the beginning, with no subsequent candles surpassing this level. The session 📉 low was set at 3383.455, highlighting a 📏 range within which the price oscillated, mostly trending downwards.
+
+<b>5. **Outlook for the Next Session**:</b> The outlook for the next session appears neutral to slightly 🔻 bearish. Although there were attempts at recovery towards the session close, the inability to sustain higher prices suggests continued 🔻 bearish pressure unless new buying interest emerges.
+
+🔮 <i>Structure never lies.</i>
+━━━━━━━━━━━━━━━━━━
+🕒 <b>Session Time:</b> 09:00 Europe/Rome
+
+===== [SENT] London Open [Manual Test] @ 2025-07-22 11:23:50 UTC =====
+📡 <b>SENTINEL-08 SCANNER ACTIVE</b>
+<b>London Open [Manual Test]</b> session scanned and decoded:
+━━━━━━━━━━━━━━━━━━
+
+<b>**Dominant Trend**</b>: The overall trend during the session was slightly 📈 . The price started around 3385 and ended at <b>3388.365</b>, showing a gradual upward movement with intermittent consolidations and retracements.
+
+<b>**Key 💧  Sweeps or Reversals**</b>: A notable 🔁  occurred at 09:15 when the price dropped sharply from <b>3389.125</b> to <b>3385.670</b>, indicating a 💧  🧲  that likely caught traders off-guard. After this drop, the price quickly recovered, signaling a potential stop-loss hunt or profit-taking event.
+
+<b>**Fast 💥  or Aggressive 📊  Shifts**</b>: The candle at 07:45 showed an aggressive upward movement with a 🔼  of <b>3387.660</b>, closing at the same level, suggesting strong buying interest. Similarly, the candle at 08:00 had a quick spike to <b>3388.450</b>, indicating another burst of buying pressure.
+
+<b>**Session 🔼 /🔽  Behavior**</b>: The session 🔼  was reached at 09:00 with a 🔼  of <b>3390.680</b>, while the 🔽  was set early in the session at 07:15 with a 🔽  of <b>3383.455</b>. These points suggest that the market had a 📈  inclination, with the 🔼  established after a series of upward moves.
+
+<b>**Outlook for the Next Session**</b>: The outlook for the next session is cautiously 📈 . The persistent upward movement and the recovery after the 💧  🧲  suggest that buyers are still in control. However, the proximity to the session 🔼  could invite profit-taking or resistance, so traders should watch for any signs of exhaustion or consolidation.
+
+━━━━━━━━━━━━━━━━━━
+🔮 <i>Expansion follows silence.</i>
+🕒 <b>Session Time:</b> 11:23 Europe/Rome
+
+===== [SENT] London Open [Manual Test] @ 2025-07-22 11:34:22 UTC =====
+📍 <b>London Open [Manual Test]</b>
+━━━━━━━━━━━━━━━━━━
+<b>**Dominant Trend:</b>
+** The overall trend during the session was slightly bullish. Prices generally increased from the opening to the closing, with an initial low of 3383.455 moving to a high of 3388.955. The candles indicate a series of higher highs and higher lows, especially after the initial dip.
+
+<b>**Key Liquidity Sweeps or Reversals:</b>
+** A notable liquidity sweep occurred between 07:15 and 07:30, where the price dropped to a low of 3383.455 before quickly reversing and closing significantly higher at 3386.205. This suggests a potential stop-loss hunt before a bullish reversal.
+
+<b>**Fast Wick or Aggressive Volume Shifts:</b>
+** There were aggressive moves around 08:15 to 08:30, where the price reached a high of 3390.160 but closed lower at 3388.305. This indicates a quick rejection of higher prices, possibly due to profit-taking or resistance at those levels.
+
+<b>**Session High/Low Behavior:</b>
+** The session high was reached at 11:00 with a price of 3388.955, while the session low was at 07:15 with a price of 3383.455. The behavior around these levels shows a strong initial rejection at lower prices and a consolidation near the highs towards the session end, suggesting sellers stepped in around the session highs.
+
+<b>**Outlook for the Next Session:</b>
+** The outlook for the next session appears neutral with a slight bullish bias. The consolidation near session highs and lack of a strong rejection or reversal pattern suggests the market could be preparing for either a continuation higher or a consolidation phase. However, the presence of wicks on the highs suggests caution as resistance may still be significant.
+
+<i>The map is time. The weapon is structure.</i>
+━━━━━━━━━━━━━━━━━━
+🕒 <b>Session Time:</b> 11:34 Europe/Rome
+
+===== [SENT] London Open [Manual Test] @ 2025-07-22 11:36:58 UTC =====
+📍 <b>London Open [Manual Test]</b>
+━━━━━━━━━━━━━━━━━━
+
+<b>**Dominant Trend**:</b>
+The session exhibited an overall upward trend, with the price starting around 3384.800 and closing at 3387.575. The gradual increase in price levels over the session indicates a bullish sentiment.
+
+<b>**Key Liquidity Sweeps or Reversals**:</b>
+Notable reversals occurred around 09:15 when the price dropped sharply from 3389.125 to 3385.670, highlighting a significant liquidity sweep. The candles from 07:30 to 08:15 also showed a strong upward reversal, moving from 3383.785 to 3388.650.
+
+<b>**Fast Wick or Aggressive Volume Shifts**:</b>
+The candle at 09:15 displayed a fast wick with a low of 3384.795, indicating aggressive selling pressure that was quickly absorbed, leading to a close at 3385.670, suggesting strong buying interest at lower levels.
+
+<b>**Session High/Low Behavior**:</b>
+The session high was reached at 3390.680 during the 09:00 candle, showing resistance around this level. The session low was 3383.420, noted during the 07:30 candle, which acted as a support level for subsequent bullish movements.
+
+<b>**Outlook for the Next Session**:</b>
+The outlook for the next session appears bullish, given the upward closing trend and the ability of the market to absorb selling pressure and sustain higher lows. However, caution is advised around the resistance zone near 3390.680.
+
+
+<i>Markets are engineered — precision reveals the architect.</i>
+━━━━━━━━━━━━━━━━━━
+🕒 <b>Session Time:</b> 11:36 Europe/Rome
+
+===== [SENT] London Open [Manual Test] @ 2025-07-22 11:38:38 UTC =====
+📍 <b>London Open [Manual Test]</b>
+━━━━━━━━━━━━━━━━━━
+
+<u>**Dominant Trend**</u>
+The overall trend during the session appears to be slightly bullish. After the initial consolidation between 06:30 and 07:15, there was a notable upward movement from 3383.800 to a peak of 3389.785, with prices generally maintaining higher levels as the session progressed.
+
+<u>**Key Liquidity Sweeps or Reversals**</u>
+A significant liquidity sweep occurred between 07:15 and 07:45, where prices dropped to 3383.455 before rallying sharply to 3387.660. This indicates a potential stop-loss hunt or accumulation phase followed by a strong reversal.
+
+<u>**Fast Wick or Aggressive Volume Shifts**</u>
+The candle from 08:15 to 08:30 showed an aggressive volume shift with a high of 3390.160 and a lower close at 3388.305, suggesting a fast wick where buying pressure was met with significant selling interest, preventing further upward movement.
+
+<u>**Session High/Low Behavior**</u>
+The session high was marked at 3390.680 during the 09:00 candle, while the low was at 3383.420 during the 07:30 candle. The price action suggests that the session high was tested multiple times but not convincingly breached, indicating resistance at higher levels.
+
+<u>**Outlook for the Next Session (Bullish/Bearish/Neutral)**</u>
+The outlook for the next session appears neutral to slightly bullish. The session ended with prices stabilizing around 3387.575 after testing both higher and lower levels. The inability to break significantly above the session high suggests caution, but the sustained higher lows indicate underlying bullish sentiment.
+
+
+<i>Only the patient exploit the impatient.</i>
+━━━━━━━━━━━━━━━━━━
+🕒 <b>Session Time:</b> 11:38 Europe/Rome

@@ -1,0 +1,52 @@
+
+────────────────────────────────────────────────────────────
+[2025-08-21 08:05:36] SESSION: Pre-New York | 29 candles
+<b>SENTINEL REPORT</b>
+
+<b>DOMINANT TREND</b>
+The trend during the Pre-New York session showed a gradual decline with lower highs and lower lows, indicating bearish dominance. The initial drop from **<b>3342.39</b>** to **<b>3339.91</b>** set the tone for the session. Despite some minor bullish attempts, the price struggled to maintain upward momentum.
+
+<b>LIQUIDITY EVENTS</b>
+A significant liquidity sweep occurred when the price dropped to **<b>3337.15</b>** before reversing sharply to **<b>3339.26</b>**, indicating a possible stop hunt. Another notable reversal was observed when the price rebounded from **<b>3337.61</b>** to **<b>3339.33</b>**, suggesting institutional absorption of sell orders.
+
+<b>VOLUME BEHAVIOUR</b>
+Volume appeared to increase during the liquidity sweeps and reversals, indicating active participation from institutional players. There was a noticeable volume spike during the sharp drop and subsequent recovery around **<b>3337.15</b>**. Overall, volume showed signs of absorption and exhaustion as the session progressed.
+
+<b>SESSION RANGE</b>
+The session range was defined between **<b>3342.94</b>** and **<b>3337.15</b>**, with the price respecting the lower end of the range multiple times. Highs were generally respected, with only minor breaches and immediate rejections, suggesting strong resistance. Given the repeated liquidity grabs and low-range respect, traders should be cautious of potential traps and consider avoiding aggressive positions.
+
+<b>OUTLOOK AHEAD</b>
+Expect a possible continuation of the bearish trend with a high probability of testing lower liquidity levels around **<b>3337.15</b>**.
+
+<i>The map is time. The weapon is structure.</i>
+
+<b>Date:</b> Thursday, 21 August
+<b>Session:</b> Pre-New York (13:30–14:30)
+<b>Time:</b> 08:05 Europe/Rome | 06:05 UTC
+
+
+────────────────────────────────────────────────────────────
+[2025-08-21 09:44:08] SESSION: Pre-New York | 29 candles
+<b>SENTINEL REPORT</b>
+
+<b>DOMINANT TREND</b>
+The trend during the session was largely sideways, with prices oscillating around **<b>3338.00</b>** to **<b>3340.00</b>**. 
+
+<b>LIQUIDITY EVENTS</b>
+Significant liquidity grab occurred at **<b>3336.85</b>**, which was followed by a reversal up to **<b>3339.61</b>**. 
+
+<b>VOLUME BEHAVIOUR</b>
+Volume showed a gradual increase with notable spikes during key liquidity events, indicating strong interest and participation. 
+
+<b>SESSION RANGE</b>
+The session maintained a range between **<b>3334.28</b>** and **<b>3340.78</b>**, respecting these levels without significant breakouts. 
+
+<b>OUTLOOK AHEAD</b>
+Expect potential upward continuation with a focus on breaking above **<b>3340.78</b>** as bullish momentum builds.
+
+<i>You don’t chase price. You anticipate narrative.</i>
+
+<b>Date:</b> Thursday, 21 August
+<b>Session:</b> Pre-New York (13:30–14:30)
+<b>Time:</b> 09:44 Europe/Rome | 07:44 UTC
+

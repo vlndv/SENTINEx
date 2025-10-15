@@ -1,0 +1,169 @@
+
+===== [SENT] London Open @ 2025-07-21 07:00:13 UTC =====
+📍 *London Open Summary*
+⚠️ GPT failed to generate a response.
+
+===== [SENT] London Open @ 2025-07-21 07:00:34 UTC =====
+📍 *London Open Summary*
+⚠️ GPT failed to generate a response.
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 15:23:39 UTC =====
+⚠️ Failed to generate GPT summary for *London Open [Manual Test]*.
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 15:29:19 UTC =====
+⚠️ Failed to generate GPT summary for *London Open [Manual Test]*.
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 15:36:24 UTC =====
+⚠️ Failed to generate GPT summary for *London Open [Manual Test]*.
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 15:41:39 UTC =====
+⚠️ Failed to generate GPT summary for *London Open [Manual Test]*.
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 15:45:22 UTC =====
+⚠️ Failed to generate GPT summary for *London Open [Manual Test]*.
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 16:00:05 UTC =====
+⚠️ Failed to generate GPT summary for *London Open [Manual Test]*.
+
+===== [SENT] London Close @ 2025-07-21 16:00:57 UTC =====
+⚠️ Failed to generate GPT summary for *London Close*.
+
+===== [SENT] Test Summary – Manual Trigger @ 2025-07-21 16:20:42 UTC =====
+⚠️ Failed to generate GPT summary for *Test Summary – Manual Trigger*.
+
+===== [SENT] Test Summary – Manual Trigger @ 2025-07-21 16:27:04 UTC =====
+📍 *Test Summary – Manual Trigger Summary*
+- **Dominant Trend:** The session shows a predominantly bullish trend, with the price moving from an opening of 3369.615 to a closing of 3397.890, demonstrating a steady upward trajectory throughout the session.
+
+- **Key Liquidity Sweeps or Reversals:** Notable liquidity sweeps occurred around the 12:15 to 12:30 period, where the price surged from a low of 3375.575 to a high of 3387.600, indicating strong buying interest. Another reverse was seen between 14:00 and 14:15, where the price dipped to 3393.840 before rallying to 3398.455.
+
+- **Fast Wick or Aggressive Volume Shifts:** The candle from 12:15 to 12:30 exhibited a fast wick, with a rapid price movement from 3381.600 to a high of 3387.600, suggesting a burst of aggressive buying activity during this period.
+
+- **Session High/Low Behavior:** The session high was at 3401.645, reached at 14:30, marking significant resistance. The session low was at 3369.615 at the start, indicating strong support that set the stage for the subsequent bullish movement.
+
+- **Outlook for the Next Session:** The outlook for the next session appears bullish, given the strong upward momentum throughout this session and the ability of the price to sustain higher levels despite minor pullbacks.
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 16:28:58 UTC =====
+📍 *London Open [Manual Test] Summary*
+- **Dominant Trend:** The overall trend during the session was bullish, as evidenced by a steady progression from an opening price of 3369.615 to a closing price of 3397.890, with most candles showing higher highs and higher lows.
+
+- **Key Liquidity Sweeps or Reversals:** A significant upward movement occurred between 12:00 and 12:30, where price surged from 3376.015 to 3386.065, suggesting a possible liquidity sweep to the upside. Another notable move was observed between 14:00 and 14:30, reaching a new high of 3401.645.
+
+- **Fast Wick or Aggressive Volume Shifts:** The candles between 12:15 and 12:30, and 14:00 and 14:30, displayed aggressive upward movements, with rapid price increases suggesting strong buying pressure. These shifts may indicate zones of high volume and interest.
+
+- **Session High/Low Behavior:** The session high was 3401.645, achieved between 14:30 and 14:45, while the session low was established early on at 3369.615. The price consistently made higher lows, reinforcing the bullish sentiment.
+
+- **Outlook for the Next Session:** The outlook for the next session remains bullish, given the strong upward momentum and the ability to maintain higher lows throughout the session. However, caution is advised around the resistance at the session high, as profit-taking or selling pressure could emerge.
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 16:37:31 UTC =====
+📍 *London Open \[Manual Test\] Summary*
+━━━━━━━━━━━━━━━━━━
+• \*\*Dominant Trend:\*\* The session experienced an overall 🔺 bullish trend, with prices moving from an opening of 3373\.695 to a close of 3396\.945\. The upward movement was consistent, with notable gains in the early to mid\-session periods\.
+• \*\*Key 💧 Liquidity Sweeps or Reversals:\*\* There was a significant 💧 liquidity 🧲 sweep between 12:15 and 12:30, as prices surged from a 📉 low of 3375\.575 to a 📈 high of 3387\.600, indicating aggressive buying interest\. Another notable 💧 liquidity movement occurred between 13:45 and 14:15, where prices moved from a 📉 low of 3387\.010 to a 📈 high of 3398\.455\.
+• \*\*Fast 💥 Wick or Aggressive 📊 Volume Shifts:\*\* The candle at 12:15 showed a strong upward 💥 wick, moving from a 📉 low of 3375\.575 to a 📈 high of 3383\.610, suggesting rapid buying pressure\. Similarly, the candle at 13:45 had a 📈 high 💥 wick reaching 3395\.375, indicating a potential 📊 volume shift after hitting the 📈 high\.
+• \*\*Session 📈 High/📉 Low Behavior:\*\* The session 📈 high was reached at 3401\.645 during the 14:30 candle, while the session 📉 low was 3370\.870 at the start of the session\. The 📈 high was tested multiple times, indicating strong resistance around the 3400 level\.
+• \*\*Outlook for the Next Session:\*\* The outlook for the next session appears neutral to slightly 🔺 bullish\. While the session closed above the opening, indicating 🔺 bullish sentiment, the inability to sustain above the 3400 level suggests potential resistance\. Monitoring for a ⚔️ break above 3401 or a strong support hold above 3390 will be key for determining the next directional move\.
+
+🔮 _Expansion follows silence\._
+━━━━━━━━━━━━━━━━━━
+🕒 *Session Time:* 16:37 Europe/Rome
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 16:43:11 UTC =====
+📍 *London Open \[Manual Test\]*
+━━━━━━━━━━━━━━━━━━
+*1. \*\*Dominant Trend\*\*: The overall trend during the session was 🔺 bullish\. The price opened at 3373\.695 and closed higher at 3396\.945, indicating a strong upward movement throughout the session\.*
+*2. \*\*Key 💧 Liquidity Sweeps or Reversals\*\*: A significant upward move occurred between 12:15 and 12:30 \(from 3381\.720 to 3386\.065\), suggesting a possible 💧 liquidity 🧲 sweep, as the price broke through previous resistance levels and continued to rise\.*
+*3. \*\*Fast 💥 Wick or Aggressive 📊 Volume Shifts\*\*: The candle at 12:15 showed a substantial 🔺 bullish move with a 📈 high of 3383\.610, suggesting aggressive buying\. Additionally, the candle at 13:45 spiked to 3395\.375 but closed lower, indicating possible profit\-taking or short\-term resistance\.*
+*4. \*\*Session 📈 High/📉 Low Behavior\*\*: The session saw a 📈 high of 3401\.645 at 14:30, which was tested again at 14:45 with a slightly lower 📈 high of 3401\.195, suggesting some resistance around this level\. The session 📉 low was 3370\.870, established early at 11:30, and was not revisited, reinforcing the 🔺 bullish trend\.*
+*5. \*\*Outlook for the Next Session\*\*: Given the strong upward movement and the establishment of higher highs and higher lows, the outlook for the next session leans 🔺 bullish\. However, some caution is warranted near the 3400 level, where resistance might be encountered again\.*
+
+🔮 _Price respects timing more than bias\._
+━━━━━━━━━━━━━━━━━━
+🕒 *Session Time:* `16:43 Europe/Rome`
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 16:44:02 UTC =====
+📍 *London Open \[Manual Test\]*
+━━━━━━━━━━━━━━━━━━
+*1. \*\*Dominant Trend\*\*: The overall trend during the session was 🔺 bullish, with the price moving from an opening of 3373\.695 to a close of 3396\.945\. The price consistently made higher highs and higher lows, indicating a strong upward momentum\.*
+*2. \*\*Key 💧 Liquidity Sweeps or Reversals\*\*: A significant 💧 liquidity 🧲 sweep occurred between 12:00 and 12:15 when the price surged from a 📉 low of 3375\.575 to a 📈 high of 3383\.610, breaking through previous resistance levels and indicating a strong buying interest\.*
+*3. \*\*Fast 💥 Wick or Aggressive 📊 Volume Shifts\*\*: Notable aggressive 📊 volume shifts were observed in the 12:15 to 12:30 period, where the price sharply moved from a 📉 low of 3381\.600 to a 📈 high of 3387\.600, suggesting a rapid influx of buying pressure\.*
+*4. \*\*Session 📈 High/📉 Low Behavior\*\*: The session 📈 high was 3401\.645, achieved in the 14:30 candle, while the session 📉 low was 3370\.870, observed at the start of the session\. The price action showed a consistent increase with minor pullbacks, indicating strong buying interest throughout the session\.*
+*5. \*\*Outlook for the Next Session\*\*: The outlook for the next session is cautiously 🔺 bullish\. The consistent upward trend and aggressive buying pressure indicate potential for further gains, but the late\-session consolidation suggests some caution as the market may be due for a short\-term correction or consolidation phase\.*
+
+🔮 _Traps exist to reveal the impatient\._
+━━━━━━━━━━━━━━━━━━
+🕒 *Session Time:* `16:44 Europe/Rome`
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 16:47:47 UTC =====
+📍 *London Open \[Manual Test\]*
+━━━━━━━━━━━━━━━━━━
+*1\. \*\*Dominant Trend\*\*:* The session exhibited a general upward trend, with the price moving from an opening level of 3373\.980 to a closing level of 3395\.900\. This upward momentum was particularly strong in the earlier part of the session, as seen in the consistent series of higher highs and higher lows\.
+*2\. \*\*Key 💧 Liquidity Sweeps or Reversals\*\*:* Notable 💧 liquidity sweeps occurred around the 14:00 to 14:45 period, where the price tested and moved above 3395 multiple times, indicating strong buying interest and potential stops being triggered above this level\. There was a minor 🔁 reversal observed after the 15:00 period when the price retreated slightly from the session highs\.
+*3\. \*\*Fast 💥 Wick or Aggressive 📊 Volume Shifts\*\*:* Aggressive upward movements were observed in the 12:15 to 12:30 and 14:00 to 14:15 candles, with sharp rises in price, indicating strong buyer interest and momentum\. The 12:15 candle especially showed a significant upward 💥 wick, suggesting a quick 🧲 sweep of 💧 liquidity followed by a consolidation\.
+*4\. \*\*Session 📈 High/📉 Low Behavior\*\*:* The session 📈 high was set at 3401\.645 during the 14:30 candle, following a robust upward move\. The 📉 low for the session was established early on at 3373\.220 during the initial 11:45 candle\. The price action indicated a strong 🔺 bullish bias, with the session 📈 high being tested multiple times\.
+*5\. \*\*Outlook for the Next Session\*\*:* The outlook for the next session appears \*\*🔺 bullish\*\*, given the overall upward trend, sustained buying interest, and the lack of significant 🔻 bearish reversals\. However, caution should be exercised around potential resistance levels near the session highs\.
+
+🔮 _Price respects timing more than bias\._
+━━━━━━━━━━━━━━━━━━
+🕒 *Session Time:* `16:47 Europe/Rome`
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 16:53:29 UTC =====
+📍 *London Open \[Manual Test\]*
+━━━━━━━━━━━━━━━━━━
+*1. \*\*Dominant Trend\*\*:*
+The session exhibited a 🔺 bullish trend overall, with the price moving from an opening of 3373\.980 to a closing of 3395\.900\. There was a consistent upward movement, particularly in the first half of the session, with higher highs and higher lows being established\.
+
+*2. \*\*Key 💧 Liquidity Sweeps or Reversals\*\*:*
+Notable 💧 liquidity sweeps occurred around 14:00 and 14:15, where the price dipped to lower levels \(3386\.235 and 3393\.840, respectively\) before quickly rebounding to close near session highs, indicating strong buying interest and potential stop\-loss hunts\.
+
+*3. \*\*Fast 💥 Wick or Aggressive 📊 Volume Shifts\*\*:*
+The candle from 13:45 to 14:00 displayed an aggressive 📊 volume shift, with a significant 💥 wick to the downside \(📉 low of 3387\.010\) followed by a strong close near the 📈 high \(close of 3394\.940\), suggesting a rapid change in sentiment and aggressive buying pressure\.
+
+*4. \*\*Session 📈 High/📉 Low Behavior\*\*:*
+The session 📈 high of 3401\.645 was reached at 14:30, indicating strong 🔺 bullish momentum during the mid\-session\. The session 📉 low of 3373\.220 was recorded at the very beginning, setting a foundation for the 🔺 bullish trend that followed\.
+
+*5. \*\*Outlook for the Next Session\*\*:*
+The outlook for the next session is cautiously 🔺 bullish\. The strong close near the session highs, along with the observed buying pressure during dips, suggests continued upward momentum\. However, traders should watch for potential profit\-taking or resistance near the recent highs\.
+
+🔮 _Above noise, liquidity breathes\._
+━━━━━━━━━━━━━━━━━━
+🕒 Session Time: `16:53 Europe/Rome`
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 16:54:03 UTC =====
+📍 *London Open \[Manual Test\]*
+━━━━━━━━━━━━━━━━━━
+*1. \*\*Dominant Trend:*
+\*\* The overall trend during the session was 🔺 bullish, with the XAU/USD price rising from an opening of 3373\.980 to a 📈 high of 3401\.645, before a slight retracement towards the end of the session\. The price consistently made higher highs and higher lows, particularly in the first half of the session\.
+
+*2. \*\*Key 💧 Liquidity Sweeps or Reversals:*
+\*\* A significant 💧 liquidity 🧲 sweep occurred around 14:00 to 14:30, where the price dipped to a 📉 low of 3386\.235 before aggressively moving up to a 📈 high of 3401\.645, suggesting a strong demand zone at the lower levels and a subsequent 🔺 bullish 🔁 reversal\.
+
+*3. \*\*Fast 💥 Wick or Aggressive 📊 Volume Shifts:*
+\*\* Notable aggressive price action was observed at 12:15, where the price quickly spiked from 3376\.010 to a 📈 high of 3383\.610, indicating a sharp shift in buying pressure\. Another fast upward movement was seen at 13:45, with a rapid rise to 3395\.375\.
+
+*4. \*\*Session 📈 High/📉 Low Behavior:*
+\*\* The session 📈 high was 3401\.645, reached during the 14:30 candle, while the session 📉 low was 3373\.220, observed right at the session's start\. The price's ability to ⚔️ break above 3400 indicates strong 🔺 bullish momentum, but the failure to sustain above this level suggests some selling pressure\.
+
+*5. \*\*Outlook for the Next Session:*
+\*\* The outlook for the next session is cautiously 🔺 bullish\. Despite some retracement towards the end of the session, the overall 🔺 bullish momentum, higher highs, and the strong recovery from intra\-session lows suggest that bulls are in control, although with potential resistance around the 3400 level\.
+
+🔮 _Traps exist to reveal the impatient\._
+━━━━━━━━━━━━━━━━━━
+🕒 Session Time: `16:54 Europe/Rome`
+
+===== [SENT] London Open [Manual Test] @ 2025-07-21 17:00:10 UTC =====
+📍 <b>London Open [Manual Test]</b>
+━━━━━━━━━━━━━━━━━━
+<b>1. **Dominant Trend**:</b> The session exhibited an overall 🔺 bullish trend, particularly noticeable in the first half of the session, where prices consistently moved upwards from an opening of 3375.455 to a peak of 3401.645 before a slight retracement in the latter half.
+
+<b>2. **Key 💧 Liquidity Sweeps or Reversals**:</b> There was a notable 🧲 sweep and 🔁 reversal around 15:00 to 15:30, where the price fell from a 📈 high of 3401.000 to a 📉 low of 3396.280, followed by a recovery to 3400.165, indicating a 💧 liquidity grab followed by a recovery.
+
+<b>3. **Fast 💥 Wick or Aggressive 📊 Volume Shifts**:</b> The candle at 14:15 showed a swift movement with a 📈 high of 3398.455 and a close at 3397.775, suggesting aggressive buying pressure that pushed the price sharply upwards within the 15-minute period.
+
+<b>4. **Session 📈 High/📉 Low Behavior**:</b> The session 📈 high was established at 3401.645 during the 14:30 candle, while the session 📉 low occurred at the beginning of the session at 3374.635. The 📈 high was tested again but not breached, indicating resistance at that level.
+
+<b>5. **Outlook for the Next Session**:</b> The outlook for the next session is **neutral to slightly 🔺 bullish**, given the retracement observed in the latter part of the session. The inability to ⚔️ break the session 📈 high suggests some resistance, but the overall upward trend may continue if 🔺 bullish momentum is sustained.
+
+🔮 <i>Traps exist to reveal the impatient.</i>
+━━━━━━━━━━━━━━━━━━
+🕒 <b>Session Time:</b> 17:00 Europe/Rome

@@ -1,0 +1,30 @@
+
+────────────────────────────────────────────────────────────
+[2025-07-26 16:22:09] SESSION: Test Trigger | 20 candles
+📍 <b>TEST TRIGGER</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • The session is exhibiting a bearish trend overall.<br><br>• • Price action shows a consistent decline with lower highs and lower lows.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>
+<i>Wicks are whispers — hear what price refuses to say.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 16:22  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-26 18:49:36] SESSION: London Open [Manual Test] | 30 candles
+📍 <b>LONDON OPEN [MANUAL TEST]</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+**1. 🧠 Dominant Trend**<br><br>• • The session exhibits a compression with mixed movements, showing initial bearish pressure followed by a recovery towards the end.<br><br>• ⸻<br><br>**2. 💧 Liquidity Sweeps or Reversals**<br><br>• Liquidity sweep evident at **<b>3339.275</b>** during the 19:50 candle, grabbing liquidity below prior lows.<br><br>
+<i>Algos feast where emotion flows.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 18:49  (Europe/Rome)
+
+
+────────────────────────────────────────────────────────────
+[2025-07-26 18:50:24] SESSION: London Open [Manual Test] | 30 candles
+📍 <b>LONDON OPEN [MANUAL TEST]</b>
+━━━━━━━━━━━━━━━━━━━━━━━<br><br>
+1. 🧠 Dominant Trend<br><br>• • The session is primarily exhibiting bearish behavior with moments of compression.<br><br>• ⸻<br><br>2. 💧 Liquidity Sweeps or Reversals<br><br>• Liquidity sweep observed around **<b>3339.715</b>** with a subsequent drop to **<b>3339.360</b>**.<br><br>
+<i>You don’t chase price. You anticipate narrative.</i><br><br>
+━━━━━━━━━━━━━━━━━━━━━━━<br>
+<b>Time:</b> 18:50  (Europe/Rome)
+

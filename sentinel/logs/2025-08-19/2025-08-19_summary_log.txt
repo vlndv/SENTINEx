@@ -1,0 +1,26 @@
+
+────────────────────────────────────────────────────────────
+[2025-08-19 14:04:47] SESSION: Pre-New York | 29 candles
+<b>SENTINEL REPORT</b>
+
+<b>DOMINANT TREND</b>
+The early session showed a bullish trend with price moving from **<b>3337.47</b>** to a peak of **<b>3345.47</b>**. This upward momentum faced resistance, leading to a consolidation phase. The trend shifted to bearish towards the end of the session, closing at **<b>3339.78</b>**.
+
+<b>LIQUIDITY EVENTS</b>
+A significant liquidity grab occurred around **<b>3345.47</b>**, which marked the session's high before a reversal. The reversal initiated a sell-off, breaking earlier support levels and trapping late buyers.
+
+<b>VOLUME BEHAVIOUR</b>
+Volume spiked during the initial bullish push, suggesting strong buying interest. As the session progressed, volume tapered off, indicating reduced participation and potential buyer exhaustion. The final bearish move was accompanied by a moderate increase in volume, confirming seller dominance.
+
+<b>SESSION RANGE</b>
+The session ranged between **<b>3336.95</b>** and **<b>3345.47</b>**, with the high briefly breached before a reversal. This range suggests a false breakout, trapping buyers at the top. Trading within this range may be risky due to potential false signals and liquidity traps.
+
+<b>OUTLOOK AHEAD</b>
+Expect further downside pressure as the market seeks liquidity below recent lows, targeting the **<b>3336.95</b>** level with potential for a deeper retracement.
+
+<i>Liquidity fuels intention. Timing defines direction.</i>
+
+<b>Date:</b> Tuesday, 19 August
+<b>Session:</b> Pre-New York (13:30–14:30)
+<b>Time:</b> 14:04 Europe/Rome | 12:04 UTC
+
